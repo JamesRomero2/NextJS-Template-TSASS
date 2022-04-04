@@ -1,20 +1,20 @@
-## Project Title
+# E-Commerce Product Page
 
-Project Description
+Coded by [James Romero](https://jamesromero-homepage.vercel.app/).
 
-# TECHNOLOGIES USED
+**TECHNOLOGIES USED**
 
 DEVELOPMENT
 
 -   [Next.js](https://nextjs.org/)
--   React
--   SASS/SCSS
+-   [React](https://reactjs.org/)
+-   [SASS/SCSS](https://sass-lang.com/)
 
 CODE CLEAN-UP
 
 -   Built-in Lint
--   Prettier
--   Husky
+-   [Prettier](https://prettier.io/)
+-   [Husky](https://typicode.github.io/husky/#/)
 
 TESTING (Not Implemented)
 
@@ -23,15 +23,13 @@ TESTING (Not Implemented)
 -   Jest (Integration and Unit Testing)
 -   Cypress (End to End Testing)
 
-# TIME FRAME
+**TIME FRAME**
 
--   Start Date : MM/DD/YYY
--   Finish Date : MM/DD/YYY
+-   Start Date :
+-   Finish Date :
 
-# PROBLEMS ENCOUNTER
+**PROBLEMS ENCOUNTER**
 
--
-
-# PROBLEMS SOLUTION
+-   **PROBLEMS SOLUTION**
 
 -
